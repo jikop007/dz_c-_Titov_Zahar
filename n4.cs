@@ -11,6 +11,12 @@ class Program4
         {
             string? password = Console.ReadLine();
 
+            if (string.IsNullOrEmpty(password))
+            {
+                Console.WriteLine("Пароль не может быть пустым");
+                continue;
+            }
+
             string specialChars = "!@#$%^&*";
 
             bool hasUpperCase = password.Any(char.IsUpper);
