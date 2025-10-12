@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\bin\Debug\net9.0\exercise5.exe
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\bin\Debug\net9.0\exercise5.deps.json
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\bin\Debug\net9.0\exercise5.runtimeconfig.json
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\bin\Debug\net9.0\exercise5.dll
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\bin\Debug\net9.0\exercise5.pdb
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\exercise5.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\exercise5.AssemblyInfo.cs
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\exercise5.sourcelink.json
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\exercise5.dll
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\refint\exercise5.dll
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\exercise5.pdb
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\exercise5.genruntimeconfig.cache
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\exercise5\obj\Debug\net9.0\ref\exercise5.dll

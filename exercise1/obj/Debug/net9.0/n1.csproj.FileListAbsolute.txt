@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\bin\Debug\net9.0\n1.exe
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\bin\Debug\net9.0\n1.deps.json
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\bin\Debug\net9.0\n1.runtimeconfig.json
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\bin\Debug\net9.0\n1.dll
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\bin\Debug\net9.0\n1.pdb
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\n1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\n1.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\n1.AssemblyInfo.cs
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\n1.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\n1.sourcelink.json
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\n1.dll
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\refint\n1.dll
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\n1.pdb
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\n1.genruntimeconfig.cache
+C:\Users\Honor\Desktop\Новая папка\qwerty\dz_c-_Titov_Zahar\n1\obj\Debug\net9.0\ref\n1.dll
